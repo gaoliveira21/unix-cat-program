@@ -1,4 +1,4 @@
-# UNIX cat program
+# :smiley_cat: UNIX cat program
 A simple UNIX cat program built with Nodejs
 
 ## :computer: How to run
