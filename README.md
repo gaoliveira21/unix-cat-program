@@ -1,2 +1,11 @@
-# unix-cat-program
-A simple UNIX cat program built with nodejs
+# UNIX cat program
+A simple UNIX cat program built with Nodejs
+
+## :computer: How to run
+
+```
+yarn start path/to/file.txt
+```
+
+
+Feito por **Gabriel Oliveira** :smiley: - **Contato:** <a href="https://www.linkedin.com/in/gabriel-jos%C3%A9-de-oliveira-633962197/">https://www.linkedin.com/in/gabriel-jos%C3%A9-de-oliveira-633962197/</a>
