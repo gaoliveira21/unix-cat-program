@@ -13,4 +13,4 @@ yarn start path/to/file.txt
 npm run start path/to/file.txt
 ```
 
-Built by: **Gabriel Oliveira** :smiley: - **Contact:** <a href="https://www.linkedin.com/in/gabriel-jos%C3%A9-de-oliveira-633962197/">https://www.linkedin.com/in/gabriel-jos%C3%A9-de-oliveira-633962197/</a>
+Made by: **Gabriel Oliveira** :smiley: - **Contact:** <a href="https://www.linkedin.com/in/gabriel-jos%C3%A9-de-oliveira-633962197/">https://www.linkedin.com/in/gabriel-jos%C3%A9-de-oliveira-633962197/</a>
